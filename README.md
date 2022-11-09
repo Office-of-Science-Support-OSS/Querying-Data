@@ -1,7 +1,7 @@
 # Querying Data
 
 Use this code to filter NRDD data by its attributes and search terms.
-Given the large number of NRDD Data Fields and the many Line Offices, Programs, and Labs that contribute, querying data can vary signigicantly by each user. The code is generally formatted so that the user can customize as needed to pull information.
+Given the large number of NRDD Data Fields and the many Line Offices, Programs, and Labs that contribute, querying data can vary significantly by each user. The code is generally formatted so that the user can customize as needed to pull information.
 
 There is a sample .xlsx file that contains some search words to help users get started on querying data by topic areas.
 
